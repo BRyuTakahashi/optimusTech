@@ -3,6 +3,7 @@
   --main-grey: #667085;
   --secondary-grey: #3A404E;
   --main-red: #8E2424;
+  --main-blue: #394DB1;
 }
 
 * {
@@ -43,7 +44,7 @@ header {
 }
 
 .link-signUp {
-  background-color:var(--main-red);
+  background-color:var(--main-blue);
   color: #FFF;
 
 }
